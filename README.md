@@ -20,11 +20,5 @@ J’ai des compétences en :
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 
 
-Facilité à travailler en équipe
-Travailler en équipe implique de collaborer efficacement avec les autres, de respecter les µopinions diverses et de contribuer de manière positive aux objectifs communs.
-Cela nécessite également une bonne communication et une attitude ouverte et coopérative.
-
-
-
 
 
